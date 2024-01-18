@@ -54,6 +54,7 @@ int main()
     myvec.push_back(stu1);
     myvec.push_back(stu2);
     myvec.push_back(stu3);
+    
 
     int length = myvec.size();
     int capacity = myvec.capacity();
